@@ -118,6 +118,8 @@
 
 * **ERC-721**: non-fungible tokens.
 * **ERC-20**: fungible tokens.
+* **ERC-1155**: "semi-fungible" tokens : NFT's that can be created/sold/stored as multiple copies of one item
+* **ERC-998** : Composable NFT's 
 * **ERC-1400**: security tokens that be sold as securities.
 * **ERC-223**: allows for the transaction fees to be paid using the tokens involved. 
 * **ERC-777**: aims to be an improvement on the ERC20 standard by lowering overheads and adding new features.
@@ -211,6 +213,8 @@
 * [Curio Cards](https://curio.cards/)
 * [Joy World](https://www.joy.world/)
 * [Axie](https://axieinfinity.com/): A digital nation.
+* [CryptoArtNet](https://cryptoartnet.com) : A directory of CryptoArtists
+* [NFThub](https://nfthub.xyz): In-development : the producthunt of NFTs
 
 ## Marketplaces
 
@@ -226,12 +230,14 @@
 - [SuperRare](https://superrare.co/): collect digital art work.
 - [Wax](https://wax.io/): decentralized video game and entertainment network.
 - [NonFungible.com](https://nonfungible.com/): database of blockchain gaming and crypto collectible markets.
-- [Data.nyc](https://dada.nyc/artgallery): collection of virtual conversations.
+- [Dada.nyc](https://dada.nyc/artgallery): collection of virtual conversations.
 - [Maecenas.co](https://www.maecenas.co/): fine art investments.
 - [Portion](https://portion.io/): premier online marketplace.
 - [Meme factory](https://memefactory.io/): A decentralized registry and marketplace for the creation, exchange, and collection of provably rare digital assets.
 - [beta.cent.co](https://beta.cent.co/~discover/).
-
+- [unique.one](https://unique.one) - An incentivized, artist-first marketplace
+- [Ghostmarket](https://ghostmarket.io) - NFT minting/market on Phantasma
+- [MFT Showroom](https://nftshowroom.com) : NFT minting/market on HIVE
 
 ### Gaming Marketplaces
 
